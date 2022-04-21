@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(107, 159, 175);
+}
+body header {
+  display: flex;
+  align-items: center;
+}
+body form {
+  border: 2px dashed green;
+  display: flex;
+  flex-direction: column;
+}
+body form > * {
+  padding: 0.2em 0.5em;
+  margin: 0.2em 0.5em;
+}/*# sourceMappingURL=style.css.map */
